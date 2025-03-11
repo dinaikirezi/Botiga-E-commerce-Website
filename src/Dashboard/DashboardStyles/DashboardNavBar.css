@@ -1,0 +1,27 @@
+.dashboard-container{
+    display: flex;
+    gap: 200px;
+    
+}
+.rightPart{
+    display: flex;
+    
+}
+.dashboardIcons{
+    border: 5px #82828C;
+    border-radius: 50%;
+
+}
+
+.profile{
+    display: flex;
+    flex-direction: row;
+}
+
+.profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
